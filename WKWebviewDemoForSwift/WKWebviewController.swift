@@ -17,7 +17,7 @@ class WKWebviewController: UIViewController,WKUIDelegate,WKNavigationDelegate{
     private var negativeSpacer:UIBarButtonItem?
 
     /*
-     *加载WKWebView对象
+      *加载WKWebView对象ma
      */
     lazy var wkWebview:WKWebView = {
         () -> WKWebView in
